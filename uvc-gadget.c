@@ -88,7 +88,7 @@
 #define PU_BRIGHTNESS_MIN_VAL 0
 #define PU_BRIGHTNESS_MAX_VAL 255
 #define PU_BRIGHTNESS_STEP_SIZE 1
-#define PU_BRIGHTNESS_DEFAULT_VAL 150
+#define PU_BRIGHTNESS_DEFAULT_VAL 200
 
 /* ---------------------------------------------------------------------------
  * Generic stuff
